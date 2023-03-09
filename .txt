@@ -1,0 +1,26 @@
+   HTML AND CSS
+ 
+*1st day i have completed basic html (How Html program runs)
+*2nd day i have completed tutorials on Heading and types
+*3rd day i have completed tutorials on Webforms
+*4th day i have completed tutorials on Stylesheets- a list of CSS rule/rule sets.
+*5th day i have completed tutorials on selectors
+*6th day i have completed tutorials on HTML Semantic tags
+*7th day i have completed tutorials on Chrome Dev Tools
+*8th day i have completed tutorials on Position & layout
+*9th day i have completed tutorials on Pseudo classes
+*10th day i have completed doing HTML forms.
+*Anchor tags,Flex box,Media Queries
+*Done doing the task but responsive is pending
+
+JavaScript
+
+*What is JavaScript and praticed some small program
+*Execution Context
+*Code Execution
+*Call stack,Hoisting,Global Object
+*Undefined Vs Not defined
+*Scope Chain
+*let&Const declaration
+*Working on BlockScope
+*And Doing the task on flex box and pending responsive for 1st task
